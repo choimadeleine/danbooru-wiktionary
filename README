@@ -1,0 +1,8 @@
+SPDX-License-Identifier: 0BSD OR Apache-2.0
+
+This project is licensed under the BSD 0-Clause license (i.e. unconditionally
+redistributable), a copy of which can be found at ./LICENSE-BSD.
+
+The Hugging Face dataset used in this project, qdlabs/danbooru-tags, is licensed
+under the Apache 2.0 license but does not contain a license notice. Find a copy
+of the Apache 2.0 license at ./LICENSE-APACHE.

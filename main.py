@@ -1,3 +1,7 @@
+# SPDX-License-Identifier: 0BSD OR Apache-2.0
+# Copyright (C) 2025 Quilldrake Labs
+# Copyright (C) 2026 Madeleine Choi
+
 import unicodedata
 from pathlib import Path
 from typing import cast
